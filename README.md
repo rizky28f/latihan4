@@ -28,7 +28,7 @@
 #### / Output
 ![Gambar6](l4.6.png)
 ## Latihan 3 (Perulangan)
-Buat program dengan perulangan bertingkat (nested) for
+#### Buat program dengan perulangan bertingkat (nested) for
 #### Gambar Program
 ![Gambar7](l4.7.png)
 #### Hasil program / Output
