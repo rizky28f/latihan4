@@ -15,38 +15,38 @@
 #### Gambar program
 ![Gambar1](l4.1.png)
 #### Hasil Program / Output
-![Gambar2](.png)
+![Gambar2](l4.2.png)
 #### jika program false
-![Gambar3](.png)
+![Gambar3](l4.3.png)
 #### jika program true
-![Gambar4](.png)
+![Gambar4](l4.4.png)
 ## Latihan 2
 ### Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
 #### Gambar Program
-![Gambar5](.png)
+![Gambar5](l4.5.png)
 #### Hasil program
-![Gambar6](.png)
+![Gambar6](l4.6.png)
 #### / Output
-![Gambar7](.png)
+![Gambar7](l4.7.png)
 ## Latihan 3 (Perulangan)
 Buat program dengan perulangan bertingkat (nested) for
 #### Gambar Program
-![Gambar8](.png)
+![Gambar8](l4.8.png)
 #### Hasil program / Output
-![Gambar9](.png)
+![Gambar9](l4.9.png)
 ## Latihan 4 (Perulangan)
 ###### 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 ###### 2. Nilai n diisi pada saat runtime
 ###### 3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
 #### Gambar program
-![Gambar10](.png)
+![Gambar10](l4.10.png)
 #### Penjelasan Program
 ###### 1.	Import random dari library python
 ###### 2.	user=int(input("Masukan angka = ")) Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
 ###### 3.	for i in range ( user ) : Untuk Pengulangan dengan range user
 ###### 4.	lalu cetak print("Data ke", i+1, "=",(random.uniform (0.1,0.5))) dan memanggil random dengan range 0.1 sampai 0.5
 ###### Hasil program / Output
-![Gambar11](.png)
+![Gambar11](l4.11.png)
 ## Tugas Praktikum 2
 #### Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
 #### Gambar Program
