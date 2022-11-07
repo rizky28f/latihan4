@@ -23,10 +23,8 @@
 ### Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 variable input atau lebih), kemudian tampilkan hasilnya secara berurutan mulai dari data terkecil.
 #### Gambar Program
 ![Gambar4](l4.4.png)
-#### Hasil program
-![Gambar5](l4.5.png)
-#### / Output
-![Gambar6](l4.6.png)
+#### Hasil program / Output
+![Gambar5](l4.5.png) ![Gambar6](l4.6.png)
 ## Latihan 3 (Perulangan)
 #### Buat program dengan perulangan bertingkat (nested) for
 #### Gambar Program
